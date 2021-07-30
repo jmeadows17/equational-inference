@@ -6,3 +6,5 @@ and the PhysAI-DS1.csv dataset, it is difficult to read.
 
 To mitigate this, I have uploaded two separate supporting notebooks highlighting the Computer Algebra Derivation
 and the core Search Algorithm (which is effectively pseudocode without its Full_Experiment context).
+
+SymPy version 1.4
